@@ -1,0 +1,1 @@
+angular.module("listaTelefonica", []); //Definindo um modulo
